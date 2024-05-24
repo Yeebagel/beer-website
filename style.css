@@ -1,0 +1,18 @@
+.box {
+    position: relative;
+    right: -1100px;
+    top: -1200px;
+    margin: 1rem auto 1rem auto;
+    max-width: 200px;
+    background-color: aqua;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    font-size: 1.5rem;
+}
+  
+#box:hover {
+    background-color: red;
+  }
+#music:hover {
+    background-color: red;
+  }
